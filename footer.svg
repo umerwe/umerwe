@@ -1,0 +1,86 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0a1e"/>
+      <stop offset="50%" style="stop-color:#0d1b35"/>
+      <stop offset="100%" style="stop-color:#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00000000"/>
+      <stop offset="30%" style="stop-color:#7c3aed"/>
+      <stop offset="70%" style="stop-color:#00d9ff"/>
+      <stop offset="100%" style="stop-color:#00000000"/>
+    </linearGradient>
+    <linearGradient id="bottomShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00000000"/>
+      <stop offset="25%" style="stop-color:#7c3aed80"/>
+      <stop offset="50%" style="stop-color:#ffffff"/>
+      <stop offset="75%" style="stop-color:#00d9ff80"/>
+      <stop offset="100%" style="stop-color:#00000000"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="120" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid lines -->
+  <g opacity="0.05" stroke="#00d9ff" stroke-width="0.5">
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="150" y1="0" x2="150" y2="120"/>
+    <line x1="300" y1="0" x2="300" y2="120"/>
+    <line x1="450" y1="0" x2="450" y2="120"/>
+    <line x1="600" y1="0" x2="600" y2="120"/>
+    <line x1="750" y1="0" x2="750" y2="120"/>
+  </g>
+
+  <!-- Ambient glows -->
+  <ellipse cx="200" cy="60" rx="150" ry="70" fill="#7c3aed" opacity="0.04"/>
+  <ellipse cx="700" cy="60" rx="150" ry="70" fill="#00d9ff" opacity="0.04"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#lineGrad)" opacity="0.9"/>
+
+  <!-- Corner brackets top-left -->
+  <polyline points="30,20 30,8 42,8" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.6"/>
+  <!-- Corner brackets top-right -->
+  <polyline points="870,20 870,8 858,8" fill="none" stroke="#00d9ff" stroke-width="1.5" opacity="0.6"/>
+  <!-- Corner brackets bottom-left -->
+  <polyline points="30,100 30,112 42,112" fill="none" stroke="#00d9ff" stroke-width="1.5" opacity="0.6"/>
+  <!-- Corner brackets bottom-right -->
+  <polyline points="870,100 870,112 858,112" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Accent dots -->
+  <circle cx="60" cy="60" r="2.5" fill="#7c3aed" opacity="0.5" filter="url(#glow)"/>
+  <circle cx="840" cy="60" r="2.5" fill="#00d9ff" opacity="0.5" filter="url(#glow)"/>
+
+  <!-- Quote text -->
+  <text x="450" y="52"
+    font-family="'Georgia', serif"
+    font-size="13"
+    fill="#94a3b8"
+    text-anchor="middle"
+    font-style="italic"
+    letter-spacing="0.5">"Write code that your future self will thank you for."</text>
+
+  <!-- Divider -->
+  <rect x="300" y="64" width="300" height="1" fill="url(#lineGrad)" opacity="0.6"/>
+
+  <!-- Name credit -->
+  <text x="450" y="85"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    fill="#475569"
+    text-anchor="middle"
+    letter-spacing="3">UMER FAROOQ SHAHI · 2025</text>
+
+  <!-- Bottom shimmer -->
+  <rect x="0" y="118" width="900" height="2" fill="url(#bottomShimmer)" opacity="0.6"/>
+</svg>
