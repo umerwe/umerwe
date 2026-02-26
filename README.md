@@ -23,7 +23,7 @@ const umer: Developer = {
   role:        "Full-Stack Engineer",
   location:    "Rawalpindi, Pakistan 🇵🇰",
   focus:       ["Scalable Backends", "Real-Time Apps", "Modern UIs"],
-  stack:       ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "MongoDB"],
+  stack:       ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "MongoDB", "Supabase"],
   currentGoal: "Building global-impact software as a remote engineer",
   philosophy:  "Write code that your future self will thank you for.",
 };
@@ -55,6 +55,7 @@ I'm a passionate full-stack developer with a strong eye for clean architecture a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### UI Libraries
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
