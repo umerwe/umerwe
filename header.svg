@@ -145,7 +145,7 @@
 
   <!-- Docker -->
   <rect x="628" y="200" width="68" height="22" rx="4" fill="#2496ed18" stroke="#2496ed60" stroke-width="0.8"/>
-  <text x="662" y="215" font-family="'Courier New', monospace" font-size="10" fill="#7dd3fc" text-anchor="middle">Docker</text>
+  <text x="662" y="215" font-family="'Courier New', monospace" font-size="10" fill="#7dd3fc" text-anchor="middle">Supabase</text>
 
   <!-- Bottom shimmer line -->
   <rect x="0" y="278" width="900" height="2" fill="url(#topShimmer)" opacity="0.5"/>
