@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7C3AED&height=200&section=header&text=Umer%20Farooq%20Shahi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%94%20Rawalpindi%2C%20Pakistan&descAlignY=58&descColor=a0a0a0" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b2a,60:00b4d8,100:7209b7&height=280&section=header&text=Umer%20Farooq%20Shahi&fontSize=52&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full-Stack%20Engineer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descSize=16&descAlignY=60&descColor=90e0ef&stroke=00d9ff&strokeWidth=2&animation=twinkling" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+production-grade+web+applications;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+MERN;Turning+complex+problems+into+elegant+solutions;Open+to+remote+%26+global+opportunities)](https://git.io/typing-svg)
 
