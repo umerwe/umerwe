@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/umerwe/umerwe/main/header.svg" width="100%" alt="Umer Farooq Shahi - Full Stack Engineer"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+production-grade+web+applications;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+MERN;Turning+complex+problems+into+elegant+solutions;]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+production-grade+web+applications;MERN+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Firebase;Building+systems%2C+not+just+features;From+idea+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
 
 <br/>
 
