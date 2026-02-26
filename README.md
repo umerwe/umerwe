@@ -87,9 +87,7 @@ I don't just write code — I build systems. Here's how I think:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerwe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerwe&theme=tokyonight&hide_border=true)
