@@ -31,7 +31,7 @@ const umer: Developer = {
 
 I'm a passionate full-stack developer with a strong eye for clean architecture and performant systems. I thrive at the intersection of **great UX and solid backend design** — from crafting pixel-perfect React interfaces to designing RESTful APIs and database schemas that scale.
 
-- 🔭 Currently building real-world full-stack projects with **Next.js 14, TypeScript & PostgreSQL**
+- 🔭 Currently building real-world full-stack projects with **Next.js, TypeScript & PostgreSQL**
 - 🌱 Deepening expertise in **system design, cloud infrastructure, and CI/CD workflows**
 - 🧠 Strong believer in **clean code principles**, component-driven development, and test coverage
 - 🤝 Open to **remote collaborations**, freelance work, and open source contributions
