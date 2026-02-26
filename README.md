@@ -1,167 +1,132 @@
-<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Main dark background gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0e1a"/>
-      <stop offset="40%" style="stop-color:#0d1b35"/>
-      <stop offset="100%" style="stop-color:#0f0a1e"/>
-    </linearGradient>
+<div align="center">
 
-    <!-- Cyan glow gradient for accent line -->
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00000000"/>
-      <stop offset="30%" style="stop-color:#00d9ff"/>
-      <stop offset="70%" style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#00000000"/>
-    </linearGradient>
+<img src="https://raw.githubusercontent.com/umerwe/umerwe/main/header.svg" width="100%" alt="Umer Farooq Shahi - Full Stack Engineer"/>
 
-    <!-- Glow filter for name -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+production-grade+web+applications;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+MERN;Turning+complex+problems+into+elegant+solutions;Open+to+remote+%26+global+opportunities)](https://git.io/typing-svg)
 
-    <!-- Soft glow filter for dots -->
-    <filter id="dotGlow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+<br/>
 
-    <!-- Radial glow behind name -->
-    <radialGradient id="nameGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#00d9ff18"/>
-      <stop offset="100%" style="stop-color:#00000000"/>
-    </radialGradient>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-farooq-shahi-914ba0253/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uemyy1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umerwe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/umerwe)
 
-    <!-- Top edge shimmer -->
-    <linearGradient id="topShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00000000"/>
-      <stop offset="25%" style="stop-color:#00d9ff80"/>
-      <stop offset="50%" style="stop-color:#ffffff"/>
-      <stop offset="75%" style="stop-color:#7c3aed80"/>
-      <stop offset="100%" style="stop-color:#00000000"/>
-    </linearGradient>
+</div>
 
-    <linearGradient id="gridFade" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d9ff08"/>
-      <stop offset="100%" style="stop-color:#00000000"/>
-    </linearGradient>
-  </defs>
+---
 
-  <!-- Background -->
-  <rect width="900" height="280" fill="url(#bgGrad)"/>
+## 👨‍💻 About Me
 
-  <!-- Subtle grid lines -->
-  <g opacity="0.06" stroke="#00d9ff" stroke-width="0.5">
-    <line x1="0" y1="40" x2="900" y2="40"/>
-    <line x1="0" y1="80" x2="900" y2="80"/>
-    <line x1="0" y1="120" x2="900" y2="120"/>
-    <line x1="0" y1="160" x2="900" y2="160"/>
-    <line x1="0" y1="200" x2="900" y2="200"/>
-    <line x1="0" y1="240" x2="900" y2="240"/>
-    <line x1="100" y1="0" x2="100" y2="280"/>
-    <line x1="200" y1="0" x2="200" y2="280"/>
-    <line x1="300" y1="0" x2="300" y2="280"/>
-    <line x1="400" y1="0" x2="400" y2="280"/>
-    <line x1="500" y1="0" x2="500" y2="280"/>
-    <line x1="600" y1="0" x2="600" y2="280"/>
-    <line x1="700" y1="0" x2="700" y2="280"/>
-    <line x1="800" y1="0" x2="800" y2="280"/>
-  </g>
+```typescript
+const umer: Developer = {
+  name:        "Umer Farooq Shahi",
+  role:        "Full-Stack Engineer",
+  location:    "Rawalpindi, Pakistan 🇵🇰",
+  focus:       ["Scalable Backends", "Real-Time Apps", "Modern UIs"],
+  stack:       ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "MongoDB"],
+  currentGoal: "Building global-impact software as a remote engineer",
+  philosophy:  "Write code that your future self will thank you for.",
+};
+```
 
-  <!-- Ambient glow blobs -->
-  <ellipse cx="180" cy="100" rx="160" ry="100" fill="#00d9ff" opacity="0.04"/>
-  <ellipse cx="720" cy="180" rx="180" ry="110" fill="#7c3aed" opacity="0.06"/>
-  <ellipse cx="450" cy="140" rx="300" ry="150" fill="url(#nameGlow)"/>
+I'm a passionate full-stack developer with a strong eye for clean architecture and performant systems. I thrive at the intersection of **great UX and solid backend design** — from crafting pixel-perfect React interfaces to designing RESTful APIs and database schemas that scale.
 
-  <!-- Top shimmer line -->
-  <rect x="0" y="0" width="900" height="2" fill="url(#topShimmer)"/>
+- 🔭 Currently building real-world full-stack projects with **Next.js 14, TypeScript & PostgreSQL**
+- 🌱 Deepening expertise in **system design, cloud infrastructure, and CI/CD workflows**
+- 🧠 Strong believer in **clean code principles**, component-driven development, and test coverage
+- 🤝 Open to **remote collaborations**, freelance work, and open source contributions
+- 🎯 Goal: Contributing to impactful products at a top-tier global tech company
 
-  <!-- Corner brackets — top left -->
-  <polyline points="30,50 30,30 50,30" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.7"/>
-  <!-- Corner brackets — top right -->
-  <polyline points="870,50 870,30 850,30" fill="none" stroke="#00d9ff" stroke-width="2" opacity="0.7"/>
-  <!-- Corner brackets — bottom left -->
-  <polyline points="30,230 30,250 50,250" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.7"/>
-  <!-- Corner brackets — bottom right -->
-  <polyline points="870,230 870,250 850,250" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.7"/>
+---
 
-  <!-- Floating accent dots -->
-  <circle cx="60" cy="140" r="3" fill="#00d9ff" opacity="0.5" filter="url(#dotGlow)"/>
-  <circle cx="840" cy="140" r="3" fill="#7c3aed" opacity="0.5" filter="url(#dotGlow)"/>
-  <circle cx="120" cy="80" r="1.5" fill="#00d9ff" opacity="0.4"/>
-  <circle cx="780" cy="80" r="1.5" fill="#7c3aed" opacity="0.4"/>
-  <circle cx="90" cy="200" r="2" fill="#00d9ff" opacity="0.3"/>
-  <circle cx="810" cy="200" r="2" fill="#7c3aed" opacity="0.3"/>
+## 🛠️ Tech Stack
 
-  <!-- Status pill -->
-  <rect x="360" y="52" width="180" height="22" rx="11" fill="#00d9ff12" stroke="#00d9ff" stroke-width="0.8" opacity="0.8"/>
-  <circle cx="376" cy="63" r="4" fill="#00d9ff">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="388" y="68" font-family="'Courier New', monospace" font-size="10" fill="#00d9ff" opacity="0.9">Available for Hire</text>
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
 
-  <!-- Main Name -->
-  <text x="450" y="135"
-    font-family="'Georgia', serif"
-    font-size="52"
-    font-weight="700"
-    fill="#ffffff"
-    text-anchor="middle"
-    filter="url(#glow)"
-    letter-spacing="2">Umer Farooq Shahi</text>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-  <!-- Accent divider line -->
-  <rect x="150" y="150" width="600" height="1.5" fill="url(#lineGrad)" opacity="0.9"/>
+### UI Libraries
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <!-- Role tag -->
-  <text x="450" y="178"
-    font-family="'Courier New', monospace"
-    font-size="13"
-    fill="#00d9ff"
-    text-anchor="middle"
-    letter-spacing="4"
-    opacity="0.95">FULL-STACK ENGINEER</text>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-  <!-- Tech badges row -->
-  <!-- Next.js -->
-  <rect x="196" y="200" width="72" height="22" rx="4" fill="#ffffff0d" stroke="#ffffff22" stroke-width="0.8"/>
-  <text x="232" y="215" font-family="'Courier New', monospace" font-size="10" fill="#e2e8f0" text-anchor="middle">Next.js</text>
+---
 
-  <!-- TypeScript -->
-  <rect x="278" y="200" width="78" height="22" rx="4" fill="#3178c618" stroke="#3178c660" stroke-width="0.8"/>
-  <text x="317" y="215" font-family="'Courier New', monospace" font-size="10" fill="#93c5fd" text-anchor="middle">TypeScript</text>
+## 📐 Engineering Principles
 
-  <!-- Node.js -->
-  <rect x="366" y="200" width="68" height="22" rx="4" fill="#33993318" stroke="#33993360" stroke-width="0.8"/>
-  <text x="400" y="215" font-family="'Courier New', monospace" font-size="10" fill="#86efac" text-anchor="middle">Node.js</text>
+I don't just write code — I build systems. Here's how I think:
 
-  <!-- PostgreSQL -->
-  <rect x="444" y="200" width="88" height="22" rx="4" fill="#33679118" stroke="#33679160" stroke-width="0.8"/>
-  <text x="488" y="215" font-family="'Courier New', monospace" font-size="10" fill="#93c5fd" text-anchor="middle">PostgreSQL</text>
+| Principle | Practice |
+|-----------|----------|
+| 🏗️ **Architecture First** | Design before implementation — ERDs, API contracts, component trees |
+| 🧩 **Separation of Concerns** | Clean folder structures, modular services, DRY logic |
+| 🔒 **Security by Default** | Auth flows, input validation, env secrets, RBAC patterns |
+| ⚡ **Performance Matters** | Lazy loading, caching strategies, query optimization |
+| 📦 **Ship with Confidence** | Git branching, meaningful commits, incremental delivery |
+| 📖 **Code Readability** | Self-documenting code, consistent naming, minimal magic |
 
-  <!-- MongoDB -->
-  <rect x="542" y="200" width="76" height="22" rx="4" fill="#4ea94b18" stroke="#4ea94b60" stroke-width="0.8"/>
-  <text x="580" y="215" font-family="'Courier New', monospace" font-size="10" fill="#86efac" text-anchor="middle">MongoDB</text>
+---
 
-  <!-- Docker -->
-  <rect x="628" y="200" width="68" height="22" rx="4" fill="#2496ed18" stroke="#2496ed60" stroke-width="0.8"/>
-  <text x="662" y="215" font-family="'Courier New', monospace" font-size="10" fill="#7dd3fc" text-anchor="middle">Docker</text>
+## 📊 GitHub Stats
 
-  <!-- Location line -->
-  <text x="450" y="252"
-    font-family="'Courier New', monospace"
-    font-size="11"
-    fill="#64748b"
-    text-anchor="middle"
-    letter-spacing="1">📍 Rawalpindi, Pakistan  ·  Open to Remote Opportunities Worldwide</text>
+<div align="center">
 
-  <!-- Bottom shimmer line -->
-  <rect x="0" y="278" width="900" height="2" fill="url(#topShimmer)" opacity="0.5"/>
-</svg>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerwe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerwe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerwe&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umerwe&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔨 **Full-stack SaaS apps** — Multi-tenant architecture with Next.js App Router + PostgreSQL
+- 🌐 **Real-time features** — WebSocket-based collaboration & live notification systems
+- 🐳 **Containerized deployments** — Dockerizing MERN/Next.js apps for production
+- 📐 **API design patterns** — RESTful best practices, error handling, versioning strategies
+
+---
+
+## 💬 Let's Connect
+
+Whether you're looking for a **collaborator on an open-source project**, need a **freelance full-stack engineer**, or just want to talk about software architecture — my inbox is open.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-farooq-shahi-914ba0253/)
+[![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uemyy1@gmail.com)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=umerwe&label=Profile+Views&color=00D9FF&style=flat-square)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0D1117&height=120&section=footer" />
+
+</div>
