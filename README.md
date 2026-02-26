@@ -87,7 +87,10 @@ I don't just write code — I build systems. Here's how I think:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerwe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerwe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umerwe&theme=tokyonight&hide_border=true)
@@ -124,6 +127,6 @@ Whether you're looking for a **collaborator on an open-source project**, need a 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0D1117&height=120&section=footer" />
+<img src="https://raw.githubusercontent.com/umerwe/umerwe/main/footer.svg" width="100%" alt="footer"/>
 
 </div>
