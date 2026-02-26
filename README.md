@@ -63,7 +63,6 @@ I'm a passionate full-stack developer with a strong eye for clean architecture a
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -108,7 +107,6 @@ I don't just write code — I build systems. Here's how I think:
 
 - 🔨 **Full-stack SaaS apps** — Multi-tenant architecture with Next.js App Router + PostgreSQL
 - 🌐 **Real-time features** — WebSocket-based collaboration & live notification systems
-- 🐳 **Containerized deployments** — Dockerizing MERN/Next.js apps for production
 - 📐 **API design patterns** — RESTful best practices, error handling, versioning strategies
 
 ---
