@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/umerwe/umerwe/main/header.svg" width="100%" alt="Umer Farooq Shahi - Full Stack Engineer"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+NestJS+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL;Building+scalable+backend+architecture;Real-time+systems+%E2%80%A2+AI+integration+%E2%80%A2+VPS+deployment;From+system+design+to+production+%E2%80%94+end+to+end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;MERN+%E2%80%A2+Supabase+%E2%80%A2+Building+AI-powered+apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
