@@ -30,12 +30,11 @@ const umer: Developer = {
 };
 ```
 
-Full-Stack Developer with 2+ years of experience specializing in system design and scalable backend architecture using **NestJS** and **PostgreSQL**. Proficient in **Prisma ORM**, database optimization, real-time systems, and AI integration, with hands-on experience in **VPS deployment** and high-performance **Next.js** development.
+Full-Stack Developer with 2+ years of experience specializing in system design and scalable backend architecture using **NestJS** and **PostgreSQL**. I enjoy the intersection of solid backend design and clean, performant UIs — from database schemas to pixel-perfect interfaces.
 
-- 🏢 Currently architecting full-stack platforms at **DCodax Technologies** using NestJS, PostgreSQL, Prisma, and Next.js SSR
-- ⚡ Reduced API response times by ~60% through Redis caching and query optimization
-- 🌐 Built real-time features with Socket.io, Firebase Cloud Messaging, and automated payment orchestration
-- 🧠 Independently designed and shipped 15+ full-stack applications from scratch — architecture, UI/UX, and infrastructure
+- 🔭 Currently deepening my work in **NestJS, PostgreSQL, Prisma, and Next.js SSR**
+- ⚡ Focused on real-time systems, caching strategies, and query/API optimization
+- 🧠 Big believer in clean architecture, AI-assisted workflows, and shipping with confidence
 - 🤝 Open to remote collaborations, freelance work, and open source contributions
 
 ---
@@ -74,45 +73,6 @@ Full-Stack Developer with 2+ years of experience specializing in system design a
 
 ---
 
-## 💼 Experience
-
-**MERN Stack Developer** — DCodax Technologies · *July 2025 – Present*
-- Architected full-stack platforms using NestJS, PostgreSQL, Prisma ORM, and Next.js (SSR); managed complete server deployment on VPS/Plesk environments.
-- Implemented Redis caching, reducing API response times by ~60%, and engineered real-time features with Socket.io, FCM, and automated payment orchestration.
-- Reviewed team code to eliminate critical bugs, enforcing TypeScript strict mode and modular architecture; leveraged AI-assisted workflows to accelerate feature delivery.
-
-**Full-Stack Developer** — Freelance / Independent · *May 2023 – June 2025*
-- Independently designed, architected, and built 15+ full-stack applications from scratch with custom design systems.
-- Integrated Stripe, Firebase, AWS S3, Cloudinary, and FCM with JWT authentication, Redux Persist, and MongoDB aggregation pipelines.
-- Built secure RESTful APIs with RBAC and achieved 90+ Lighthouse performance scores.
-
----
-
-## 🚀 Featured Projects
-
-### 🏘️ Ajar — Enterprise Rental Ecosystem
-`Next.js` `Node.js` `Redis` `Socket.io` `Stripe Connect` `MongoDB`
-- Digital wallet system with automated payment orchestration and real-time booking status synchronization.
-- Large-scale rental marketplace with a recursive dynamic form engine supporting nested field dependencies and full backend validation.
-- Stripe Connect payout flow with a multi-unit pricing engine, granular RBAC, and OAuth + OTP-based 2FA security.
-- Full English/Arabic (i18n) RTL support with Redis caching and optimized server-side rendering.
-
-### 🏆 Evalo — Competition Evaluation Platform
-`Next.js` `TypeScript` `Node.js` `MongoDB` `AWS S3`
-- AWS S3 direct-upload pipeline with presigned URLs for high-volume video submissions without server bottlenecks.
-- Automated evaluator distribution system allocating submissions to reviewers in real-time.
-- Tamper-proof, server-side weighted rubric across 10 scoring criteria ensuring evaluation integrity.
-- Multi-role dashboard architecture with a real-time analytics leaderboard.
-
-### 🏫 eSchool — School Management System
-`MERN Stack` `AI Integration` `Stripe`
-- Centralized AI-intelligence layer synthesizing academic data into predictive analytics for every stakeholder.
-- 80% database performance improvement via strategic MongoDB indexing and aggregation pipelines.
-- Automated fee billing with Stripe, idle-detection session expiration, and JWT-based route protection.
-- Quad-dashboard system for Admin, Teacher, Student, and Parent roles.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -126,13 +86,6 @@ Full-Stack Developer with 2+ years of experience specializing in system design a
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umerwe&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**
-Virtual University of Pakistan · Sep 2021 – Mar 2026
 
 ---
 
