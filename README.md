@@ -24,7 +24,7 @@ const umer: Developer = {
   location:    "Rawalpindi, Pakistan 🇵🇰",
   experience:  "2+ years",
   focus:       ["System Design", "Scalable Backends", "Real-Time Systems", "AI Integration"],
-  stack:       ["NestJS", "Next.js", "TypeScript", "PostgreSQL", "Prisma", "Redis"],
+  stack:       ["NestJS", "Next.js", "TypeScript", "PostgreSQL", "Docker", "Redis"],
   currentRole: "MERN Stack Developer @ DCodax Technologies",
   philosophy:  "Write code that your future self will thank you for.",
 };
